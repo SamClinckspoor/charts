@@ -33,3 +33,5 @@ webhookPort: 8080
 nodeSelector: {}
 
 logLevel: 2
+
+podAnnotations: {}
